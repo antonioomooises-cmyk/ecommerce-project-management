@@ -1,3 +1,27 @@
+# E-commerce Website – Project Management (Simulated Project)
+
+## Project Overview
+This project simulates the management of an e-commerce website implementation using Agile and Scrum practices.  
+The focus is on project planning, execution, monitoring, and continuous improvement.
+
+## Role
+Project Manager / Scrum Master (Simulated Project)
+
+## Methodology
+- Scrum (Agile)
+- Iterative delivery
+- Continuous improvement
+
+## Project Objectives
+- Plan and manage an IT project using Scrum
+- Define and prioritize a product backlog
+- Execute Sprints with clear goals
+- Monitor progress and risks
+- Document decisions and outcomes
+
+## Tools Used
+- GitHub (Issues, Pull Requests, Documentation)
+- Scrum framework
 # ecommerce-project-management
 Simulated IT project managing the implementation of an e-commerce website using Scrum and Agile practices.
 # E-commerce Website – Project Management
