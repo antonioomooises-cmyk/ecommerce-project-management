@@ -48,3 +48,5 @@ Create a detailed execution plan and risk awareness.
 - Refine product backlog
 - Define project timeline and milestones
 - Identify risks and mitigation strategies
+### Sprint Review
+Sprint 2 delivered a refined backlog, defined milestones, and identified key project risks.
