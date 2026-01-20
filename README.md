@@ -26,3 +26,5 @@ Define project foundation and initial backlog.
 - Define project scope and objectives
 - Identify key stakeholders
 - Define core e-commerce features
+### Sprint Review
+Sprint 1 goals were achieved. Project scope, stakeholders, and core features were defined.
