@@ -28,3 +28,14 @@ Define project foundation and initial backlog.
 - Define core e-commerce features
 ### Sprint Review
 Sprint 1 goals were achieved. Project scope, stakeholders, and core features were defined.
+### Sprint Retrospective
+
+What went well:
+- Clear sprint goal
+- Good backlog prioritization
+
+What can be improved:
+- Tasks could be broken down earlier
+
+Action items:
+- Improve backlog refinement for next sprint
