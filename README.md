@@ -16,3 +16,13 @@ Deliver a functional e-commerce website within defined scope, time, and quality 
 
 ## Status
 Initiation phase
+
+## Sprint 1
+
+### Sprint Goal
+Define project foundation and initial backlog.
+
+### Sprint Backlog
+- Define project scope and objectives
+- Identify key stakeholders
+- Define core e-commerce features
