@@ -50,3 +50,14 @@ Create a detailed execution plan and risk awareness.
 - Identify risks and mitigation strategies
 ### Sprint Review
 Sprint 2 delivered a refined backlog, defined milestones, and identified key project risks.
+### Sprint Retrospective
+
+What went well:
+- Improved backlog structure
+- Better planning visibility
+
+What can be improved:
+- Earlier risk identification
+
+Action items:
+- Maintain continuous backlog refinement
